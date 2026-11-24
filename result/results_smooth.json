@@ -1,0 +1,25 @@
+{
+  "oof_logloss": 0.01931684324423187,
+  "fold_scores": [
+    0.019132,
+    0.019085,
+    0.019152,
+    0.019799,
+    0.019416
+  ],
+  "n_train": 21948,
+  "n_test": 3982,
+  "n_features": 874,
+  "n_targets": 206,
+  "missing_rate": 0.0,
+  "mean_positives": 81.7669906616211,
+  "epochs": 35,
+  "batch": 128,
+  "lr": 0.001,
+  "folds": 5,
+  "seed": 42,
+  "device": "cuda",
+  "hidden": 1024,
+  "smooth": 0.001,
+  "tag": "smooth"
+}
