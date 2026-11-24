@@ -6,15 +6,24 @@
   "d_ens": -0.00137,
   "d_wide": 0.00449,
   "wide_logloss": 0.02472,
-  "fold_scores": [0.02076, 0.0206, 0.02084, 0.02186, 0.02158],
+  "fold_scores": [
+    0.019879,
+    0.020015,
+    0.020053,
+    0.020925,
+    0.020269
+  ],
   "epochs": 35,
   "batch": 128,
   "n_train": 21948,
   "n_test": 3982,
-  "n_features": 872,
+  "n_features": 874,
   "n_targets": 206,
   "median_pos": 38.0,
   "mean_pos": 81.8,
   "under_1pct": 184,
-  "under_20": 53
+  "under_20": 53,
+  "lb_public": 0.02045,
+  "lb_private": 0.01852,
+  "lb_gap": 0.0025
 }
